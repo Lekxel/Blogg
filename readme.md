@@ -1,4 +1,4 @@
-#Blogg
+# Blogg
 
 ### A simple PHP (CodeIgniter) blog with comment system
 
