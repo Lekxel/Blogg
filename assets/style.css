@@ -1,0 +1,21 @@
+html,body{
+	height: 100%;
+}
+.navbar {
+	border-radius: 0;
+	border: 0;
+	background: rgb(76,175,80,0.8);
+	margin-bottom: 0;
+}
+.navbar-inverse .navbar-nav > li > a, .navbar-inverse a.navbar-brand {
+	color:white;
+}
+.navbar-inverse .navbar-nav > li > a:hover, .navbar a:hover {
+	color: gray;
+}
+.navbar-inverse .navbar-nav > li.active > a {
+	background-color: white;
+}
+.navbar-inverse .navbar-nav > li.active > a {
+	color: green;
+}
